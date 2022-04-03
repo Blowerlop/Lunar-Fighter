@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/asteroid.wav</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/blue_button00.png</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/blue_button002.png</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/cursor_style_5.wav</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/engine.png</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/Explosion.png</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/FGBS(17).wav</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/File.spritefont</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/meteorBrown_med1.png</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/sfx_wpn_laser8.wav</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/ship.png</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/spaceMissiles_040.png</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/starfield.png</File>
+    <File>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/Yeah.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

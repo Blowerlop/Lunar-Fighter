@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Girod Nathan/Desktop/CSharp/LunarLander/LunarLander/Content/Yeah.mp3</SourceFile>
+  <SourceTime>2016-06-20T15:29:02+02:00</SourceTime>
+  <DestFile>C:/Users/Girod Nathan/Desktop/CSharp/LunarLander/LunarLander/Content/bin/Windows/Yeah.xnb</DestFile>
+  <DestTime>2021-07-14T23:49:47.0449762+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Girod Nathan/Desktop/CSharp/LunarLander/LunarLander/Content/bin/Windows/Yeah.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Girod Nathan/Desktop/CSharp/LunarLander/LunarLander/Content/sfx_wpn_laser8.wav</SourceFile>
+  <SourceTime>2016-06-20T14:33:30+02:00</SourceTime>
+  <DestFile>C:/Users/Girod Nathan/Desktop/CSharp/LunarLander/LunarLander/Content/bin/Windows/sfx_wpn_laser8.xnb</DestFile>
+  <DestTime>2021-07-14T21:52:51.2299666+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T18:17:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
