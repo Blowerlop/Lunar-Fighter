@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/blue_button00.png</SourceFile>
+  <SourceFile>C:/Users/Girod Nathan/Documents/GitHub/Lunar-Fighter/LunarFighter/LunarLander/Content/blue_button00.png</SourceFile>
   <SourceTime>2021-07-19T18:23:34.8753643+02:00</SourceTime>
-  <DestFile>C:/Users/Girod Nathan/Desktop/CSharp/LunarFighter/LunarLander/Content/bin/Windows/Content/blue_button00.xnb</DestFile>
-  <DestTime>2022-04-03T13:25:19.9295303+02:00</DestTime>
+  <DestFile>C:/Users/Girod Nathan/Documents/GitHub/Lunar-Fighter/LunarFighter/LunarLander/Content/bin/Windows/Content/blue_button00.xnb</DestFile>
+  <DestTime>2022-04-03T13:28:29.4570851+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
